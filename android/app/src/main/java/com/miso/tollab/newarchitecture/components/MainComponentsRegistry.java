@@ -1,4 +1,4 @@
-package com.tollab.newarchitecture.components;
+package com.miso.tollab.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

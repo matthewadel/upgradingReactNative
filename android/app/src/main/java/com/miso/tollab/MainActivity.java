@@ -1,4 +1,4 @@
-package com.tollab;
+package com.miso.tollab;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

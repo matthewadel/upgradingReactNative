@@ -1,4 +1,4 @@
-package com.tollab.newarchitecture;
+package com.miso.tollab.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.tollab.BuildConfig;
-import com.tollab.newarchitecture.components.MainComponentsRegistry;
-import com.tollab.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.miso.tollab.BuildConfig;
+import com.miso.tollab.newarchitecture.components.MainComponentsRegistry;
+import com.miso.tollab.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
